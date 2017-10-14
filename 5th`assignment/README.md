@@ -1,3 +1,4 @@
+
 Table is here:<br>
 
 
@@ -9,6 +10,6 @@ JSON is here:<br>
 http://dev-xiaoliwang.pantheonsite.io/camera_json
 
 <br>
-
-Thanks and regards!
+<br>
+Thanks and regards!<br>
 Xiaoli WANG
