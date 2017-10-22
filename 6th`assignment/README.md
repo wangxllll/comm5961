@@ -1,7 +1,8 @@
+Here is the 6th assignment:<br>
 http://dev-xiaoliwang.pantheonsite.io/data.php
-<br>
+<br>This is the json:<br>
 http://dev-xiaoliwang.pantheonsite.io/camera_json
-<br>
+<br>This id the table:<br>
 http://dev-xiaoliwang.pantheonsite.io/camera_table
 <br>
 Thanks and regards,
