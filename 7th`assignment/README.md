@@ -1,6 +1,6 @@
 <b>
 Links of the StoryMap:</b><br>
-html:   http://dev-xiaoliwang.pantheonsite.io/storymap.html
+html:   http://dev-xiaoliwang.pantheonsite.io/storymap.html <br>
 js:     http://dev-xiaoliwang.pantheonsite.io/storymap.js
 <br>
 <b>Link of the aggregation assignment based on last assignment:</b><br>
